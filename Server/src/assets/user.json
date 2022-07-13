@@ -1,0 +1,16 @@
+[
+  {
+    "username": "john",
+    "email": "john@gmail.com",
+    "password": "password123admin",
+    "role": "admin",
+    "salt": "7c95926dcd3f94d2",
+    "hash": "5bc1dfa0aa9e92b7fe655d76b7ef4979f75e7b14610b0eab428335e0b4dfec9a"
+  },
+  {
+    "username": "anna",
+    "email": "anna@gmail.com",
+    "salt": "981409b97522e9ed",
+    "hash": "7d9707d1215261b740aa6ab07c1524a0df394f5bee2f98d1445ab4f32e76a9c3"
+  }
+]
